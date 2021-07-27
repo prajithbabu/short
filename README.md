@@ -1,2 +1,2 @@
 # smally
-URL Shortner 
+URL Shortner
